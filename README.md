@@ -9,24 +9,26 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Developing machine learning and deep learning models.
 - Requirement gathering from client.
 - Have worked on time series data for stocks prediction.
-- Worked as a backend developer in DJANGO
+- Worked as a backend developer in **DJANGO** with **Postgresql** as database
+- Used **Trello**as project managment tool
+- Used **Github** as version control system
 
 #### Data Science Intern
 #### The Sparks Foundation
 #### July 2021 to August 2021
 - Remote internship.
-- Did tasks like exploratory data analysis and model predictions. 
+- Did ["Tasks"](https://github.com/YassaFareed/The-Sparks-Foundation-Tasks) like exploratory data analysis and model predictions. 
 
 #### Research Assistant Intern 
 #### Nvidia Research Lab (FAST-NUCES)
 #### September 2020 to February 2021
-- Computer Vision & IOT based internship.
+- **Computer Vision & IOT** based internship.
 - Prepared image data for training.
-- Developed object detection model using TensorFlow and YOLOv4.
+- Developed object detection model using **TensorFlow** and **YOLOv4**.
 
 
 ## Project Experience
-### Project 1: Flask Plant Virus Predictor
+### [Project 1: Flask Plant Virus Predictor](https://github.com/YassaFareed/FLASK-leave-virus)
 - Plant virus classification done using CNN
 - Model deployed on Flask locally 
 - Given the images tells if the plant has virus or not
@@ -35,6 +37,12 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Classification using xrays to identify if a person has covid or not
 - Used Convolutional Neural Networks 
 - Achieved Test accuracy score of 94% 
+
+### [Project 3: Society Management System](https://github.com/YassaFareed/society-worker)
+- Society management system worker screen
+- Used Flutter as frontend & Node.js as backend with Mongodb database
+- Achieved Test accuracy score of 94% 
+
 
 
 ## My Achievements
@@ -52,16 +60,16 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Volley ball Vice-Captain
 - Probablity and Statistics Teacher Assistant 
 
-### Dummy
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+### Skills
+Programming Languages | Markup Languages | Databases   | Project Management Tools|
+--------------------- | -----------------|-------------|-------------------------|
+Python (Intermediate) |   HTML & CSS     | SQL, SQLite |   Trello                |
+C++/C# (Competent)    |                  | MongoDB     |   Jira                  |
+JavaScript/(Competent)|                  |             |                         |
+                      |                  |             |                         |
+                      
+                   
+### Courses
 
-Letter | Digit | Character
------- | ------|----------
-a      | 4     | $
-       | 365   | (
-b      |       | ^  
-
+       
 
