@@ -54,9 +54,9 @@ I am currently a student at National University of Computer & Emerging Sciences 
 &icon-my-icon;
 
 ## Volunteering
-- Data Science Deputy At Google Developers Club
+- Data Science Deputy head at Google Students Developers Club
 - Volley ball Vice-Captain
-- Teacher Assistant of Probablity and Statistics
+- Probablity and Statistics Teacher Assistant 
 
 ### Support or Contact
 
