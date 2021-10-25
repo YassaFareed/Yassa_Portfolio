@@ -47,12 +47,6 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Occured in dean list 3 times (Spring 2020, Fall 2020, Spring 2021)
 
 
-## Skills
-
-GitHub supports emoji!
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat: :html:
-
 ## Volunteering
 - Data Science Deputy head at Google Students Developers Club
 - Volley ball Vice-Captain
