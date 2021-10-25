@@ -49,9 +49,9 @@ I am currently a student at National University of Computer & Emerging Sciences 
 
 ## Skills
 
-&icon-html5;
-&icon-css3;
-&icon-my-icon;
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: :html:
 
 ## Volunteering
 - Data Science Deputy head at Google Students Developers Club
