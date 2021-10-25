@@ -58,4 +58,10 @@ I am currently a student at National University of Computer & Emerging Sciences 
 | Juicy Apples |  1.99 |        739 |
 | Bananas      |  1.89 |          6 |
 
+Letter | Digit | Character
+------ | ------|----------
+a      | 4     | $
+       | 365   | (
+b      |       | ^  
+
 
