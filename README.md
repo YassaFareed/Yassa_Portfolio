@@ -1,10 +1,28 @@
-## YASSA FAREED
+### My Projects
 
 
 ## Project 1: Flask Plant Virus Predictor
 - Plant virus classification done using CNN
 - Model deployed on Flask locally 
 - Given the images tells if the plant has virus or not
+
+## [Project 2: COVID CLASSIFCATION using XRAYS](https://github.com/YassaFareed/Project-Covid)
+- Classification using xrays to identify if a person has covid or not
+- Used Convolutional Neural Networks 
+- Achieved Test accuracy score of 94% 
+
+### My Achievements
+
+## [KAGGLE COMPETITION WINNER](https://www.kaggle.com/c/devday21-data-science-competition/leaderboard)
+- Won kaggle competition on Developers Day event hosted by National University of Computer & Emerging Sciences
+- Used Naive Bayes, Xgboost, Decision Tree and Random Forest classifiers (as the targets were binary) 
+- Xgboost outperforms all other algorithms
+
+
+### Experience
+
+
+
 
 ##
 
