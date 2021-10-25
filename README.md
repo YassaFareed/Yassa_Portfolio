@@ -66,7 +66,6 @@ Programming Languages | Markup Languages | Databases   | Project Management Tool
 Python (Intermediate) |   HTML & CSS     | SQL, SQLite |   Trello                |
 C++/C# (Competent)    |                  | MongoDB     |   Jira                  |
 JavaScript/(Competent)|                  |             |                         |
-                      |                  |             |                         |
                       
                    
 ### Courses
