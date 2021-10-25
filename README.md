@@ -69,6 +69,13 @@ JavaScript/(Competent)|                  |             |                        
                       
                    
 ### Courses
+- [Using Databases with Python](https://www.coursera.org/account/accomplishments/verify/RSPU3KALQ2B5)
+- [Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/account/accomplishments/verify/B954SWCPXC26)
+- [Custom and Distributed Training with TensorFlow](https://www.coursera.org/account/accomplishments/verify/6KF7WEMUDUSS)
+- [Supervised Learning with scikit-learn](https://www.datacamp.com/statement-of-accomplishment/course/b6ae1e3c22572e8ea9cbe2b91c59060bdbf8cab5)
+- [Introduction to Data Visualization in Python](https://www.datacamp.com/statement-of-accomplishment/course/d4e5e205186b983a966b536efa66c23359148831)
+- [Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/cdec8ed28203f81f8582571d4ac020eaec001ceb)
+- [AI for Everyone](https://www.coursera.org/account/accomplishments/verify/4RJCDTUFAU9R)
 
        
 
