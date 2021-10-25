@@ -52,6 +52,10 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Volley ball Vice-Captain
 - Probablity and Statistics Teacher Assistant 
 
-### Support or Contact
+### Dummy
+| Item         | Price | # In stock |
+|--------------|:-----:|-----------:|
+| Juicy Apples |  1.99 |        739 |
+| Bananas      |  1.89 |          6 |
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
