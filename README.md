@@ -28,17 +28,17 @@ I am currently a student at National University of Computer & Emerging Sciences 
 
 
 ## Project Experience
-### [Project 1: Flask Plant Virus Predictor](https://github.com/YassaFareed/FLASK-leave-virus)
+#### [Project 1: Flask Plant Virus Predictor](https://github.com/YassaFareed/FLASK-leave-virus)
 - Plant virus classification done using CNN
 - Model deployed on Flask locally 
 - Given the images tells if the plant has virus or not
 
-### [Project 2: COVID CLASSIFICATION using XRAYS](https://github.com/YassaFareed/Project-Covid)
+#### [Project 2: COVID CLASSIFICATION using XRAYS](https://github.com/YassaFareed/Project-Covid)
 - Classification using xrays to identify if a person has covid or not
 - Used Convolutional Neural Networks 
 - Achieved Test accuracy score of 94% 
 
-### [Project 3: Society Management System](https://github.com/YassaFareed/society-worker)
+#### [Project 3: Society Management System](https://github.com/YassaFareed/society-worker)
 - Society management system worker screen
 - Used Flutter as frontend & Node.js as backend with Mongodb database
 - Achieved Test accuracy score of 94% 
@@ -46,12 +46,12 @@ I am currently a student at National University of Computer & Emerging Sciences 
 
 
 ## My Achievements
-### [KAGGLE COMPETITION WINNER](https://www.kaggle.com/c/devday21-data-science-competition/leaderboard)
+#### [KAGGLE COMPETITION WINNER](https://www.kaggle.com/c/devday21-data-science-competition/leaderboard)
 - Won kaggle competition on Developers Day event hosted by National University of Computer & Emerging Sciences
 - Used Naive Bayes, Xgboost, Decision Tree and Random Forest classifiers (as the targets were binary) 
 - Xgboost outperforms all other algorithms
 
-### [DEAN LIST HONOR](https://nu.edu.pk/Campus/Karachi/DeanLists)
+#### [DEAN LIST HONOR](https://nu.edu.pk/Campus/Karachi/DeanLists)
 - Occured in dean list 3 times (Spring 2020, Fall 2020, Spring 2021)
 
 
@@ -60,12 +60,12 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Volley ball Vice-Captain
 - Probablity and Statistics Teacher Assistant 
 
-### Skills
-Programming Languages | Markup Languages | Databases   | Project Management Tools|
---------------------- | -----------------|-------------|-------------------------|
-Python (Intermediate) |   HTML & CSS     | SQL, SQLite |   Trello                |
-C++/C# (Competent)    |                  | MongoDB     |   Jira                  |
-JavaScript/(Competent)|                  |             |                         |
+## Skills
+Programming Languages | Markup Languages | Databases   | Project Management Tools| Web Services |
+--------------------- | -----------------|-------------|-------------------------|--------------|
+Python (Intermediate) |   HTML & CSS     | SQL, SQLite |   Trello                |  AWS (basic) |
+C++/C# (Competent)    |                  | MongoDB     |   Jira                  |              |
+JavaScript/(Competent)|                  |             |                         |              |
                       
                    
 ### Courses
