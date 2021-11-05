@@ -1,11 +1,11 @@
 ## About me
 
-I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I am working as a python developer as well at [ConceptZI](https://conceptzi.com/our-team/).
+I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I have also am worked as a python developer as well at [ConceptZI](https://conceptzi.com/our-team/).
 
 ## Work Experience
 #### Python Software Engineer Intern
 #### ConceptZI
-#### August 2021 to Present
+#### August 2021 to October 2021
 - Developing machine learning and deep learning models.
 - Requirement gathering from client.
 - Have worked on time series data for stocks prediction.
@@ -61,13 +61,13 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Probablity and Statistics Teacher Assistant 
 
 ## Skills
-Programming Languages | Markup Languages | Databases   | Project Management Tools| Web Services |
---------------------- | -----------------|-------------|-------------------------|--------------|
-Python (Intermediate) |   HTML & CSS     | SQL, SQLite |   Trello                |  AWS (basic) |
-C++/C# (Competent)    |                  | MongoDB     |   Jira                  |              |
-JavaScript/(Competent)|                  |             |                         |              |
-                      
-                   
+Programming Languages | Markup Languages | Databases   | Project Management Tools| Web Services |Other tools  |
+--------------------- | -----------------|-------------|-------------------------|--------------|-------------|
+Python (Intermediate) |   HTML & CSS     | SQL, SQLite |   Trello                |  AWS (basic) | Tableau     |
+C++/C# (Competent)    |                  | MongoDB     |   Jira                  |              | Google Colab|
+JavaScript/(Competent)|                  |             |                         |              |             |
+                                        
+                  
 ### Courses
 - [Using Databases with Python - Coursera](https://www.coursera.org/account/accomplishments/verify/RSPU3KALQ2B5)
 - [Custom Models, Layers, and Loss Functions with TensorFlow - Coursera](https://www.coursera.org/account/accomplishments/verify/B954SWCPXC26)
