@@ -1,6 +1,6 @@
 ## About me
 
-I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I have also am worked as a python developer as well at [ConceptZI](https://conceptzi.com/our-team/).
+I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I have also am worked as a python developer at [ConceptZI](https://conceptzi.com/our-team/).
 
 ## Work Experience
 #### Python Software Engineer Intern
