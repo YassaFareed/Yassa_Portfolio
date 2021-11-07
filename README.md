@@ -1,6 +1,6 @@
 ## About me
 
-I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I have also am worked as a python developer at [ConceptZI](https://conceptzi.com/our-team/).
+I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I have also worked as a python developer at [ConceptZI](https://conceptzi.com/our-team/).
 
 ## Work Experience
 #### Python Software Engineer Intern
@@ -27,7 +27,7 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Developed object detection model using **TensorFlow** and **YOLOv4**.
 
 
-## Project Experience
+## Latest Projects
 #### [Project 1: Flask Plant Virus Predictor](https://github.com/YassaFareed/FLASK-leave-virus)
 - Plant virus classification done using CNN
 - Model deployed on Flask locally 
@@ -41,7 +41,6 @@ I am currently a student at National University of Computer & Emerging Sciences 
 #### [Project 3: Society Management System](https://github.com/YassaFareed/society-worker)
 - Society management system worker screen
 - Used Flutter as frontend & Node.js as backend with Mongodb database
-- Achieved Test accuracy score of 94% 
 
 
 
