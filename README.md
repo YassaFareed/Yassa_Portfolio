@@ -1,6 +1,6 @@
 ## About me
 
-I am currently a student at National University of Computer & Emerging Sciences with CPGA 3.23/4.0. I am particularly interested in data science. I have also worked as a python developer at [ConceptZI](https://conceptzi.com/our-team/).
+I am currently an undergraduate student at National University of Computer & Emerging Sciences with CPGA 3.29/4.0. I am particularly interested in data scientist or machine learning engineering role.
 
 ## Work Experience
 #### Python Software Engineer Intern
@@ -51,12 +51,12 @@ I am currently a student at National University of Computer & Emerging Sciences 
 - Xgboost outperforms all other algorithms
 
 #### [DEAN LIST HONOR](https://nu.edu.pk/Campus/Karachi/DeanLists)
-- Occured in dean list 3 times (Spring 2020, Fall 2020, Spring 2021)
+- Occured in dean list 4 times (Spring 2020, Fall 2020, Spring 2021, Fall 2021)
 
 
 ## Volunteering
 - Data Science Deputy head at Google Students Developers Club
-- Volley ball Vice-Captain
+- Data Science Competition Head FAST Procom
 - Probablity and Statistics Teacher Assistant 
 
 ## Skills
