@@ -48,6 +48,8 @@ I am currently an undergraduate student at National University of Computer & Eme
 - Used pdf samples to train custom azure form recognizer
 - Extracted the required text into csv
 
+![Recommended](images/a.JPG)
+
 
 
 ## My Achievements
