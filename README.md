@@ -42,7 +42,7 @@ I am currently an undergraduate student at National University of Computer & Eme
 - Society management system worker screen
 - Used Flutter as frontend & Node.js as backend with Mongodb database
 
-#### [OCR Extracting handwriting from PDF]
+#### OCR Extracting handwriting from PDF
 - Freelance Project
 - Used Azure Form Recognizer to extract handwriting from pdf
 - Used pdf samples to train custom azure form recognizer
