@@ -77,16 +77,18 @@ JavaScript/(Competent)|                  |             |                        
                                         
                   
 ### Courses
+- [Supervised Learning with scikit-learn - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/b6ae1e3c22572e8ea9cbe2b91c59060bdbf8cab5)
+- [Introduction to Data Visualization in Python - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/d4e5e205186b983a966b536efa66c23359148831)
+- [Python For Finance - 365DataScience](https://learn.365datascience.com/certificates/CC-5B414AC914/)
+- [SQL + TABLEAU + PYTHON](https://learn.365datascience.com/certificates/CC-FA2196FCDD)
 - [Using Databases with Python - Coursera](https://www.coursera.org/account/accomplishments/verify/RSPU3KALQ2B5)
 - [Custom Models, Layers, and Loss Functions with TensorFlow - Coursera](https://www.coursera.org/account/accomplishments/verify/B954SWCPXC26)
 - [Custom and Distributed Training with TensorFlow - Coursera](https://www.coursera.org/account/accomplishments/verify/6KF7WEMUDUSS)
-- [Supervised Learning with scikit-learn - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/b6ae1e3c22572e8ea9cbe2b91c59060bdbf8cab5)
-- [Introduction to Data Visualization in Python - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/d4e5e205186b983a966b536efa66c23359148831)
 - [Cleaning Data in Python - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/cdec8ed28203f81f8582571d4ac020eaec001ceb)
 - [AI for Everyone - Coursera](https://www.coursera.org/account/accomplishments/verify/4RJCDTUFAU9R)
 - [Convolutional Neural Network in Tensorflow - Coursera](https://www.coursera.org/account/accomplishments/verify/QMJ9RYCXD4V7)
 - [Getting Started with AWS Machine Learning - Coursera](https://www.coursera.org/account/accomplishments/verify/BBWVC75JMFHY)
 - [AWS Machine Learning Foundations - Udacity](https://graduation.udacity.com/confirm/UZTKSGDL)
+- [Statistical Thinking in Python Part1 - Datacamp](https://www.datacamp.com/statement-of-accomplishment/course/3bcb9d130d860732ab56ec5d241598f775080781)
 
-       
 
