@@ -48,8 +48,9 @@ I am currently an undergraduate student at National University of Computer & Eme
 - Used pdf samples to train custom azure form recognizer
 - Extracted the required text into csv
 
-![](images/a.JPG)
-
+#### [Django + React Simple CRUD](https://github.com/YassaFareed/Django-API)
+- Department and employees simple operations
+- Django integration with react
 
 
 ## My Achievements
